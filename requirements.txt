@@ -1,0 +1,8 @@
+geopandas
+matplotlib
+fiona
+pandas
+folium
+shapely
+scikit-optimize
+numpy
