@@ -1,5 +1,24 @@
-Da fare
-1. Aggiugere spiegazione per ogni markdown, commenti nel codice in inglese e rinominare funzioni e variabili in inglese
-  1.1 Evidenziare come abbiamo scelto bonus medio alto basso (traducendoli in inglese) e che sono modificabili
-2. Modificare la mappa interattiva con i gradienti di colore per importanza con legenda
-3. Stampa results with Bayesian methods come fatto per grid search
+# AIIT Project
+
+This project aims to analyze how to optimize green cells placement over the city of Bologna.
+
+## Overview
+
+The project was developed for the course Artificial Intelligence in Industry.
+It includes code, documentation, and resources for development and deployment.
+
+## Folder Structure
+
+- `Data/` - contains `datasets/`, `outputs/` and other useful data;
+- `maps/` - contains the generated interactive maps;
+- `main.ipynb` - the source code
+
+## Authors
+
+- Luigi Manieri 0001113044
+
+- Irene Burri 0001120380
+
+## License
+
+This project is licensed under the MIT License.
