@@ -18,7 +18,3 @@ It includes code, documentation, and resources for development and deployment.
 - Luigi Manieri 0001113044
 
 - Irene Burri 0001120380
-
-## License
-
-This project is licensed under the MIT License.
