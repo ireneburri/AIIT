@@ -31,6 +31,6 @@ Make sure Docker is installed and running on your system.
 
 ## Authors
 
-- Luigi Manieri 0001113044
+- Luigi Manieri
 
-- Irene Burri 0001120380
+- Irene Burri 
